@@ -1,4 +1,4 @@
-# Project 1: Data Modeling with PostgreSQL
+# Project: Data Modeling with PostgreSQL
 ***
 ## Project Goals  
 The  purpose of this project is to create a Postgres database schema and ETL pipeline for a startup called Sparkify that wants to analyze the data they've been collecting on songs and user activity on their new music streaming app stored on a file system as JSON files. This optimized database will enable the company analitics team to easily write queries or use advanced Data Analytics tools (like Power BI or Tableau) to understand customer listening behaviour and patterns.
